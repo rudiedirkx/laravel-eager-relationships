@@ -1,0 +1,22 @@
+{
+    "name": "rdx/laravel-eager-relationships",
+    "description": "Extend all relationships to optionally include eager loading",
+    "type": "library",
+    "require": {
+        "php": ">=5.5.0",
+        "illuminate/database": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "rdx\\laraveleagerrelationships\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rudie Dirkx",
+            "email": "github@hotblocks.nl"
+        }
+    ],
+    "minimum-stability": "dev"
+}
