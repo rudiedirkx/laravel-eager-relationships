@@ -2,6 +2,7 @@
 
 namespace rdx\laraveleagerrelationships;
 
+use rdx\laraveleagerrelationships\BelongsToManyWith;
 use rdx\laraveleagerrelationships\HasManyWith;
 
 trait HasRelationshipsWith {
